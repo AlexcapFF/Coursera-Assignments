@@ -2,6 +2,7 @@
 This repository contains all the assignments done as part of the Data Science Specialization, offered by the John Hopkins University on Coursera
 
 **All assignments were completed in R.**
+The Reproducible Research folder contains on top of R; Markdown and HTML.
 
 The included courses, so far, are:
 - Getting and Cleaning Data
