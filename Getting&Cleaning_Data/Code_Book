@@ -1,0 +1,16 @@
+features : List of all features.
+
+activity_labels : Links the class labels with their activity name.
+
+x_train : Training set.
+
+y_train : Training labels.
+
+x_test : Test set.
+
+y_test : Test labels
+
+test : a data.frame of all variables with test in their name
+
+train : a data.frame of all variables with train in their name
+
