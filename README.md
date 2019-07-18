@@ -10,4 +10,4 @@ The included courses, so far, are:
 - Reproducible Research
 
 **Important Note:** The code in these assignments represent my first steps on coding in general. The assignments were done before completing my BSc. in Statistics, 
-as part of my endeavour to pursue a carreer in Data Science. As such, the coding is on a completely novice level and should be criticised with that in mind.
+as part of my endeavour to pursue a carreer in Data Science. As such, both the coding and the deductions are on a completely novice level and should be criticised with that in mind.
