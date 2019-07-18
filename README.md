@@ -1,4 +1,4 @@
-# Coursera-DataScienceSpecialization
+# Coursera's Data Science Specialization
 This repository contains all the assignments done as part of the Data Science Specialization, offered by the John Hopkins University on Coursera
 
 **All assignments were completed in R.** <br>
